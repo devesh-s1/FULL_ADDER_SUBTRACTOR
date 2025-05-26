@@ -51,9 +51,9 @@ Write the detailed procedure here
 
 **Program:**
 
-Developed by: ADITHYA M
+Developed by: DEVESH SHARMA S
 
-RegisterNumber: 212224230008
+RegisterNumber: 212222110008
 
 ![Screenshot 2025-05-05 221127](https://github.com/user-attachments/assets/522672c1-6054-4b05-809f-23182d565ebc)
 
